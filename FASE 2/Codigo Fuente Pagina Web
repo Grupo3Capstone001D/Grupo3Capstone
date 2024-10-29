@@ -1,0 +1,1007 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="https://gmpg.org/xfn/11">
+<title>Actividades Comunitarias &#8211; Municipalidad DuocUC</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="Municipalidad DuocUC &raquo; Feed" href="http://www.sistemaut.cl/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Municipalidad DuocUC &raquo; Feed de los comentarios" href="http://www.sistemaut.cl/comments/feed/" />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.sistemaut.cl\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.6.2"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<link rel='stylesheet' id='dashicons-css' href='http://www.sistemaut.cl/wp-includes/css/dashicons.min.css?ver=6.6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='admin-bar-css' href='http://www.sistemaut.cl/wp-includes/css/admin-bar.min.css?ver=6.6.2' type='text/css' media='all' />
+<style id='admin-bar-inline-css' type='text/css'>
+
+		@media screen { html { margin-top: 32px !important; } }
+		@media screen and ( max-width: 782px ) { html { margin-top: 46px !important; } }
+	
+@media print { #wpadminbar { display:none; } }
+</style>
+<link rel='stylesheet' id='elementor-icons-css' href='http://www.sistemaut.cl/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.31.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-common-css' href='http://www.sistemaut.cl/wp-content/plugins/elementor/assets/css/common.min.css?ver=3.25.0' type='text/css' media='all' />
+<link rel='stylesheet' id='e-theme-ui-light-css' href='http://www.sistemaut.cl/wp-content/plugins/elementor/assets/css/theme-light.min.css?ver=3.25.0' type='text/css' media='all' />
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='user-registration-general-css' href='http://www.sistemaut.cl/wp-content/plugins/user-registration/assets/css/user-registration.css?ver=3.3.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='blogus-fonts-css' href='//fonts.googleapis.com/css?family=Rubik%3A400%2C500%2C700%7CJosefin+Sans%3A400%2C500%2C700%26display%3Dswap&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='blogus-google-fonts-css' href='//fonts.googleapis.com/css?family=ABeeZee%7CAbel%7CAbril+Fatface%7CAclonica%7CAcme%7CActor%7CAdamina%7CAdvent+Pro%7CAguafina+Script%7CAkronim%7CAladin%7CAldrich%7CAlef%7CAlegreya%7CAlegreya+SC%7CAlegreya+Sans%7CAlegreya+Sans+SC%7CAlex+Brush%7CAlfa+Slab+One%7CAlice%7CAlike%7CAlike+Angular%7CAllan%7CAllerta%7CAllerta+Stencil%7CAllura%7CAlmendra%7CAlmendra+Display%7CAlmendra+SC%7CAmarante%7CAmaranth%7CAmatic+SC%7CAmatica+SC%7CAmethysta%7CAmiko%7CAmiri%7CAmita%7CAnaheim%7CAndada%7CAndika%7CAngkor%7CAnnie+Use+Your+Telescope%7CAnonymous+Pro%7CAntic%7CAntic+Didone%7CAntic+Slab%7CAnton%7CArapey%7CArbutus%7CArbutus+Slab%7CArchitects+Daughter%7CArchivo+Black%7CArchivo+Narrow%7CAref+Ruqaa%7CArima+Madurai%7CArimo%7CArizonia%7CArmata%7CArtifika%7CArvo%7CArya%7CAsap%7CAsar%7CAsset%7CAssistant%7CAstloch%7CAsul%7CAthiti%7CAtma%7CAtomic+Age%7CAubrey%7CAudiowide%7CAutour+One%7CAverage%7CAverage+Sans%7CAveria+Gruesa+Libre%7CAveria+Libre%7CAveria+Sans+Libre%7CAveria+Serif+Libre%7CBad+Script%7CBaloo%7CBaloo+Bhai%7CBaloo+Da%7CBaloo+Thambi%7CBalthazar%7CBangers%7CBasic%7CBattambang%7CBaumans%7CBayon%7CBelgrano%7CBelleza%7CBenchNine%7CBentham%7CBerkshire+Swash%7CBevan%7CBigelow+Rules%7CBigshot+One%7CBilbo%7CBilbo+Swash+Caps%7CBioRhyme%7CBioRhyme+Expanded%7CBiryani%7CBitter%7CBlack+Ops+One%7CBokor%7CBonbon%7CBoogaloo%7CBowlby+One%7CBowlby+One+SC%7CBrawler%7CBree+Serif%7CBubblegum+Sans%7CBubbler+One%7CBuda%7CBuenard%7CBungee%7CBungee+Hairline%7CBungee+Inline%7CBungee+Outline%7CBungee+Shade%7CButcherman%7CButterfly+Kids%7CCabin%7CCabin+Condensed%7CCabin+Sketch%7CCaesar+Dressing%7CCagliostro%7CCairo%7CCalligraffitti%7CCambay%7CCambo%7CCandal%7CCantarell%7CCantata+One%7CCantora+One%7CCapriola%7CCardo%7CCarme%7CCarrois+Gothic%7CCarrois+Gothic+SC%7CCarter+One%7CCatamaran%7CCaudex%7CCaveat%7CCaveat+Brush%7CCedarville+Cursive%7CCeviche+One%7CChanga%7CChanga+One%7CChango%7CChathura%7CChau+Philomene+One%7CChela+One%7CChelsea+Market%7CChenla%7CCherry+Cream+Soda%7CCherry+Swash%7CChewy%7CChicle%7CChivo%7CChonburi%7CCinzel%7CCinzel+Decorative%7CClicker+Script%7CCoda%7CCoda+Caption%7CCodystar%7CCoiny%7CCombo%7CComfortaa%7CComing+Soon%7CConcert+One%7CCondiment%7CContent%7CContrail+One%7CConvergence%7CCookie%7CCopse%7CCorben%7CCormorant%7CCormorant+Garamond%7CCormorant+Infant%7CCormorant+SC%7CCormorant+Unicase%7CCormorant+Upright%7CCourgette%7CCousine%7CCoustard%7CCovered+By+Your+Grace%7CCrafty+Girls%7CCreepster%7CCrete+Round%7CCrimson+Text%7CCroissant+One%7CCrushed%7CCuprum%7CCutive%7CCutive+Mono%7CDamion%7CDancing+Script%7CDangrek%7CDavid+Libre%7CDawning+of+a+New+Day%7CDays+One%7CDekko%7CDelius%7CDelius+Swash+Caps%7CDelius+Unicase%7CDella+Respira%7CDenk+One%7CDevonshire%7CDhurjati%7CDidact+Gothic%7CDiplomata%7CDiplomata+SC%7CDomine%7CDonegal+One%7CDoppio+One%7CDorsa%7CDosis%7CDr+Sugiyama%7CDroid+Sans%7CDroid+Sans+Mono%7CDroid+Serif%7CDuru+Sans%7CDynalight%7CEB+Garamond%7CEagle+Lake%7CEater%7CEconomica%7CEczar%7CEk+Mukta%7CEl+Messiri%7CElectrolize%7CElsie%7CElsie+Swash+Caps%7CEmblema+One%7CEmilys+Candy%7CEngagement%7CEnglebert%7CEnriqueta%7CErica+One%7CEsteban%7CEuphoria+Script%7CEwert%7CExo%7CExo+2%7CExpletus+Sans%7CFanwood+Text%7CFarsan%7CFascinate%7CFascinate+Inline%7CFaster+One%7CFasthand%7CFauna+One%7CFederant%7CFedero%7CFelipa%7CFenix%7CFinger+Paint%7CFira+Mono%7CFira+Sans%7CFjalla+One%7CFjord+One%7CFlamenco%7CFlavors%7CFondamento%7CFontdiner+Swanky%7CForum%7CFrancois+One%7CFrank+Ruhl+Libre%7CFreckle+Face%7CFredericka+the+Great%7CFredoka+One%7CFreehand%7CFresca%7CFrijole%7CFruktur%7CFugaz+One%7CGFS+Didot%7CGFS+Neohellenic%7CGabriela%7CGafata%7CGalada%7CGaldeano%7CGalindo%7CGentium+Basic%7CGentium+Book+Basic%7CGeo%7CGeostar%7CGeostar+Fill%7CGermania+One%7CGidugu%7CGilda+Display%7CGive+You+Glory%7CGlass+Antiqua%7CGlegoo%7CGloria+Hallelujah%7CGoblin+One%7CGochi+Hand%7CGorditas%7CGoudy+Bookletter+1911%7CGraduate%7CGrand+Hotel%7CGravitas+One%7CGreat+Vibes%7CGriffy%7CGruppo%7CGudea%7CGurajada%7CHabibi%7CHalant%7CHammersmith+One%7CHanalei%7CHanalei+Fill%7CHandlee%7CHanuman%7CHappy+Monkey%7CHarmattan%7CHeadland+One%7CHeebo%7CHenny+Penny%7CHerr+Von+Muellerhoff%7CHind%7CHind+Guntur%7CHind+Madurai%7CHind+Siliguri%7CHind+Vadodara%7CHoltwood+One+SC%7CHomemade+Apple%7CHomenaje%7CIM+Fell+DW+Pica%7CIM+Fell+DW+Pica+SC%7CIM+Fell+Double+Pica%7CIM+Fell+Double+Pica+SC%7CIM+Fell+English%7CIM+Fell+English+SC%7CIM+Fell+French+Canon%7CIM+Fell+French+Canon+SC%7CIM+Fell+Great+Primer%7CIM+Fell+Great+Primer+SC%7CIceberg%7CIceland%7CImprima%7CInconsolata%7CInder%7CIndie+Flower%7CInika%7CInknut+Antiqua%7CIrish+Grover%7CIstok+Web%7CItaliana%7CItalianno%7CItim%7CJacques+Francois%7CJacques+Francois+Shadow%7CJaldi%7CJim+Nightshade%7CJockey+One%7CJolly+Lodger%7CJomhuria%7CJosefin+Sans%7CJosefin+Slab%7CJoti+One%7CJudson%7CJulee%7CJulius+Sans+One%7CJunge%7CJura%7CJust+Another+Hand%7CJust+Me+Again+Down+Here%7CKadwa%7CKalam%7CKameron%7CKanit%7CKantumruy%7CKarla%7CKarma%7CKatibeh%7CKaushan+Script%7CKavivanar%7CKavoon%7CKdam+Thmor%7CKeania+One%7CKelly+Slab%7CKenia%7CKhand%7CKhmer%7CKhula%7CKite+One%7CKnewave%7CKotta+One%7CKoulen%7CKranky%7CKreon%7CKristi%7CKrona+One%7CKumar+One%7CKumar+One+Outline%7CKurale%7CLa+Belle+Aurore%7CLaila%7CLakki+Reddy%7CLalezar%7CLancelot%7CLateef%7CLato%7CLeague+Script%7CLeckerli+One%7CLedger%7CLekton%7CLemon%7CLemonada%7CLibre+Baskerville%7CLibre+Franklin%7CLife+Savers%7CLilita+One%7CLily+Script+One%7CLimelight%7CLinden+Hill%7CLobster%7CLobster+Two%7CLondrina+Outline%7CLondrina+Shadow%7CLondrina+Sketch%7CLondrina+Solid%7CLora%7CLove+Ya+Like+A+Sister%7CLoved+by+the+King%7CLovers+Quarrel%7CLuckiest+Guy%7CLusitana%7CLustria%7CMacondo%7CMacondo+Swash+Caps%7CMada%7CMagra%7CMaiden+Orange%7CMaitree%7CMako%7CMallanna%7CMandali%7CMarcellus%7CMarcellus+SC%7CMarck+Script%7CMargarine%7CMarko+One%7CMarmelad%7CMartel%7CMartel+Sans%7CMarvel%7CMate%7CMate+SC%7CMaven+Pro%7CMcLaren%7CMeddon%7CMedievalSharp%7CMedula+One%7CMeera+Inimai%7CMegrim%7CMeie+Script%7CMerienda%7CMerienda+One%7CMerriweather%7CMerriweather+Sans%7CMetal%7CMetal+Mania%7CMetamorphous%7CMetrophobic%7CMichroma%7CMilonga%7CMiltonian%7CMiltonian+Tattoo%7CMiniver%7CMiriam+Libre%7CMirza%7CMiss+Fajardose%7CMitr%7CModak%7CModern+Antiqua%7CMogra%7CMolengo%7CMolle%7CMonda%7CMonofett%7CMonoton%7CMonsieur+La+Doulaise%7CMontaga%7CMontez%7CMontserrat%7CMontserrat+Alternates%7CMontserrat+Subrayada%7CMoul%7CMoulpali%7CMountains+of+Christmas%7CMouse+Memoirs%7CMr+Bedfort%7CMr+Dafoe%7CMr+De+Haviland%7CMrs+Saint+Delafield%7CMrs+Sheppards%7CMukta+Vaani%7CMuli%7CMystery+Quest%7CNTR%7CNeucha%7CNeuton%7CNew+Rocker%7CNews+Cycle%7CNiconne%7CNixie+One%7CNobile%7CNokora%7CNorican%7CNosifer%7CNothing+You+Could+Do%7CNoticia+Text%7CNoto+Sans%7CNoto+Serif%7CNova+Cut%7CNova+Flat%7CNova+Mono%7CNova+Oval%7CNova+Round%7CNova+Script%7CNova+Slim%7CNova+Square%7CNumans%7CNunito%7COdor+Mean+Chey%7COffside%7COld+Standard+TT%7COldenburg%7COleo+Script%7COleo+Script+Swash+Caps%7COpen+Sans%7COpen+Sans+Condensed%7COranienbaum%7COrbitron%7COregano%7COrienta%7COriginal+Surfer%7COswald%7COver+the+Rainbow%7COverlock%7COverlock+SC%7COvo%7COxygen%7COxygen+Mono%7CPT+Mono%7CPT+Sans%7CPT+Sans+Caption%7CPT+Sans+Narrow%7CPT+Serif%7CPT+Serif+Caption%7CPacifico%7CPalanquin%7CPalanquin+Dark%7CPaprika%7CParisienne%7CPassero+One%7CPassion+One%7CPathway+Gothic+One%7CPatrick+Hand%7CPatrick+Hand+SC%7CPattaya%7CPatua+One%7CPavanam%7CPaytone+One%7CPeddana%7CPeralta%7CPermanent+Marker%7CPetit+Formal+Script%7CPetrona%7CPhilosopher%7CPiedra%7CPinyon+Script%7CPirata+One%7CPlaster%7CPlay%7CPlayball%7CPlayfair+Display%7CPlayfair+Display+SC%7CPodkova%7CPoiret+One%7CPoller+One%7CPoly%7CPompiere%7CPontano+Sans%7CPoppins%7CPort+Lligat+Sans%7CPort+Lligat+Slab%7CPragati+Narrow%7CPrata%7CPreahvihear%7CPress+Start+2P%7CPridi%7CPrincess+Sofia%7CProciono%7CPrompt%7CProsto+One%7CProza+Libre%7CPuritan%7CPurple+Purse%7CQuando%7CQuantico%7CQuattrocento%7CQuattrocento+Sans%7CQuestrial%7CQuicksand%7CQuintessential%7CQwigley%7CRacing+Sans+One%7CRadley%7CRajdhani%7CRakkas%7CRaleway%7CRaleway+Dots%7CRamabhadra%7CRamaraja%7CRambla%7CRammetto+One%7CRanchers%7CRancho%7CRanga%7CRasa%7CRationale%7CRavi+Prakash%7CRedressed%7CReem+Kufi%7CReenie+Beanie%7CRevalia%7CRhodium+Libre%7CRibeye%7CRibeye+Marrow%7CRighteous%7CRisque%7CRoboto%7CRoboto+Condensed%7CRoboto+Mono%7CRoboto+Slab%7CRochester%7CRock+Salt%7CRokkitt%7CRomanesco%7CRopa+Sans%7CRosario%7CRosarivo%7CRouge+Script%7CRozha+One%7CRubik%7CRubik+Mono+One%7CRubik+One%7CRuda%7CRufina%7CRuge+Boogie%7CRuluko%7CRum+Raisin%7CRuslan+Display%7CRusso+One%7CRuthie%7CRye%7CSacramento%7CSahitya%7CSail%7CSalsa%7CSanchez%7CSancreek%7CSansita+One%7CSarala%7CSarina%7CSarpanch%7CSatisfy%7CScada%7CScheherazade%7CSchoolbell%7CScope+One%7CSeaweed+Script%7CSecular+One%7CSevillana%7CSeymour+One%7CShadows+Into+Light%7CShadows+Into+Light+Two%7CShanti%7CShare%7CShare+Tech%7CShare+Tech+Mono%7CShojumaru%7CShort+Stack%7CShrikhand%7CSiemreap%7CSigmar+One%7CSignika%7CSignika+Negative%7CSimonetta%7CSintony%7CSirin+Stencil%7CSix+Caps%7CSkranji%7CSlabo+13px%7CSlabo+27px%7CSlackey%7CSmokum%7CSmythe%7CSniglet%7CSnippet%7CSnowburst+One%7CSofadi+One%7CSofia%7CSonsie+One%7CSorts+Mill+Goudy%7CSource+Code+Pro%7CSource+Sans+Pro%7CSource+Serif+Pro%7CSpace+Mono%7CSpecial+Elite%7CSpicy+Rice%7CSpinnaker%7CSpirax%7CSquada+One%7CSree+Krushnadevaraya%7CSriracha%7CStalemate%7CStalinist+One%7CStardos+Stencil%7CStint+Ultra+Condensed%7CStint+Ultra+Expanded%7CStoke%7CStrait%7CSue+Ellen+Francisco%7CSuez+One%7CSumana%7CSunshiney%7CSupermercado+One%7CSura%7CSuranna%7CSuravaram%7CSuwannaphum%7CSwanky+and+Moo+Moo%7CSyncopate%7CTangerine%7CTaprom%7CTauri%7CTaviraj%7CTeko%7CTelex%7CTenali+Ramakrishna%7CTenor+Sans%7CText+Me+One%7CThe+Girl+Next+Door%7CTienne%7CTillana%7CTimmana%7CTinos%7CTitan+One%7CTitillium+Web%7CTrade+Winds%7CTrirong%7CTrocchi%7CTrochut%7CTrykker%7CTulpen+One%7CUbuntu%7CUbuntu+Condensed%7CUbuntu+Mono%7CUltra%7CUncial+Antiqua%7CUnderdog%7CUnica+One%7CUnifrakturCook%7CUnifrakturMaguntia%7CUnkempt%7CUnlock%7CUnna%7CVT323%7CVampiro+One%7CVarela%7CVarela+Round%7CVast+Shadow%7CVesper+Libre%7CVibur%7CVidaloka%7CViga%7CVoces%7CVolkhov%7CVollkorn%7CVoltaire%7CWaiting+for+the+Sunrise%7CWallpoet%7CWalter+Turncoat%7CWarnes%7CWellfleet%7CWendy+One%7CWire+One%7CWork+Sans%7CYanone+Kaffeesatz%7CYantramanav%7CYatra+One%7CYellowtail%7CYeseva+One%7CYesteryear%7CYrsa%7CZeyada&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css' href='http://www.sistemaut.cl/wp-content/themes/blogus/css/bootstrap.css?ver=6.6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='blogus-style-css' href='http://www.sistemaut.cl/wp-content/themes/blogrift/style.css?ver=6.6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='all-css-css' href='http://www.sistemaut.cl/wp-content/themes/blogus/css/all.css?ver=6.6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='dark-css' href='http://www.sistemaut.cl/wp-content/themes/blogus/css/colors/dark.css?ver=6.6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='swiper-bundle-css-css' href='http://www.sistemaut.cl/wp-content/themes/blogus/css/swiper-bundle.css?ver=6.6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='smartmenus-css' href='http://www.sistemaut.cl/wp-content/themes/blogus/css/jquery.smartmenus.bootstrap.css?ver=6.6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='animate-css' href='http://www.sistemaut.cl/wp-content/themes/blogus/css/animate.css?ver=6.6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='blogus-custom-css-css' href='http://www.sistemaut.cl/wp-content/themes/blogus/inc/ansar/customize/css/customizer.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css' href='http://www.sistemaut.cl/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.25.0' type='text/css' media='all' />
+<link rel='stylesheet' id='swiper-css' href='http://www.sistemaut.cl/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5' type='text/css' media='all' />
+<link rel='stylesheet' id='e-swiper-css' href='http://www.sistemaut.cl/wp-content/plugins/elementor/assets/css/conditionals/e-swiper.min.css?ver=3.25.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-wp-admin-bar-css' href='http://www.sistemaut.cl/wp-content/plugins/elementor/assets/css/admin-bar.min.css?ver=3.25.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-115-css' href='http://www.sistemaut.cl/wp-content/uploads/elementor/css/post-115.css?ver=1730228878' type='text/css' media='all' />
+<link rel='stylesheet' id='widget-image-css' href='http://www.sistemaut.cl/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=3.25.0' type='text/css' media='all' />
+<link rel='stylesheet' id='e-animation-slideInDown-css' href='http://www.sistemaut.cl/wp-content/plugins/elementor/assets/lib/animations/styles/slideInDown.min.css?ver=3.25.0' type='text/css' media='all' />
+<link rel='stylesheet' id='widget-heading-css' href='http://www.sistemaut.cl/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=3.25.0' type='text/css' media='all' />
+<link rel='stylesheet' id='widget-text-editor-css' href='http://www.sistemaut.cl/wp-content/plugins/elementor/assets/css/widget-text-editor.min.css?ver=3.25.0' type='text/css' media='all' />
+<link rel='stylesheet' id='e-animation-zoomInUp-css' href='http://www.sistemaut.cl/wp-content/plugins/elementor/assets/lib/animations/styles/zoomInUp.min.css?ver=3.25.0' type='text/css' media='all' />
+<link rel='stylesheet' id='widget-toggle-css' href='http://www.sistemaut.cl/wp-content/plugins/elementor/assets/css/widget-toggle.min.css?ver=3.25.0' type='text/css' media='all' />
+<link rel='stylesheet' id='e-animation-shake-css' href='http://www.sistemaut.cl/wp-content/plugins/elementor/assets/lib/animations/styles/shake.min.css?ver=3.25.0' type='text/css' media='all' />
+<link rel='stylesheet' id='widget-icon-list-css' href='http://www.sistemaut.cl/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=3.25.0' type='text/css' media='all' />
+<link rel='stylesheet' id='widget-social-icons-css' href='http://www.sistemaut.cl/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=3.25.0' type='text/css' media='all' />
+<link rel='stylesheet' id='e-apple-webkit-css' href='http://www.sistemaut.cl/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.25.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-33-css' href='http://www.sistemaut.cl/wp-content/uploads/elementor/css/post-33.css?ver=1730228880' type='text/css' media='all' />
+<link rel='stylesheet' id='blogus-style-parent-css' href='http://www.sistemaut.cl/wp-content/themes/blogus/style.css?ver=6.6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='blogrift-style-css' href='http://www.sistemaut.cl/wp-content/themes/blogrift/style.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='blogrift-default-css-css' href='http://www.sistemaut.cl/wp-content/themes/blogrift/css/colors/default.css?ver=6.6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-1-css' href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CPoppins%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=swap&#038;ver=6.6.2' type='text/css' media='all' />
+<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin><script type="text/javascript" src="http://www.sistemaut.cl/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="http://www.sistemaut.cl/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="http://www.sistemaut.cl/wp-content/themes/blogus/js/navigation.js?ver=6.6.2" id="blogus-navigation-js"></script>
+<script type="text/javascript" src="http://www.sistemaut.cl/wp-content/themes/blogus/js/bootstrap.js?ver=6.6.2" id="blogus_bootstrap_script-js"></script>
+<script type="text/javascript" src="http://www.sistemaut.cl/wp-content/themes/blogus/js/swiper-bundle.js?ver=6.6.2" id="swiper-bundle-js"></script>
+<script type="text/javascript" src="http://www.sistemaut.cl/wp-content/themes/blogus/js/main.js?ver=6.6.2" id="blogus_main-js-js"></script>
+<script type="text/javascript" src="http://www.sistemaut.cl/wp-content/themes/blogus/js/sticksy.min.js?ver=6.6.2" id="sticksy-js-js"></script>
+<script type="text/javascript" src="http://www.sistemaut.cl/wp-content/themes/blogus/js/jquery.smartmenus.js?ver=6.6.2" id="smartmenus-js-js"></script>
+<script type="text/javascript" src="http://www.sistemaut.cl/wp-content/themes/blogus/js/jquery.smartmenus.bootstrap.js?ver=6.6.2" id="bootstrap-smartmenus-js-js"></script>
+<script type="text/javascript" src="http://www.sistemaut.cl/wp-content/themes/blogus/js/jquery.cookie.min.js?ver=6.6.2" id="jquery-cookie-js"></script>
+<link rel="https://api.w.org/" href="http://www.sistemaut.cl/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="http://www.sistemaut.cl/wp-json/wp/v2/pages/33" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.sistemaut.cl/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.6.2" />
+<link rel="canonical" href="http://www.sistemaut.cl/actividades-comunitarias/" />
+<link rel='shortlink' href='http://www.sistemaut.cl/?p=33' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="http://www.sistemaut.cl/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.sistemaut.cl%2Factividades-comunitarias%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="http://www.sistemaut.cl/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.sistemaut.cl%2Factividades-comunitarias%2F&#038;format=xml" />
+    <style>
+    .bs-blog-post p:nth-of-type(1)::first-letter {
+        display: none;
+    }
+    </style>
+    <style type="text/css" id="custom-background-css">
+        :root {
+            --wrap-color: #fff        }
+    </style>
+<meta name="generator" content="Elementor 3.25.0; features: e_font_icon_svg, additional_custom_breakpoints, e_optimized_control_loading, e_element_cache; settings: css_print_method-external, google_font-enabled, font_display-swap">
+			<style>
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
+					background-image: none !important;
+				}
+				@media screen and (max-height: 1024px) {
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+				@media screen and (max-height: 640px) {
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+			</style>
+			    <style type="text/css">
+                    .site-title a,
+            .site-description {
+                color: #000;
+            }
+
+            .site-branding-text .site-title a {
+                font-size: px;
+            }
+
+            @media only screen and (max-width: 640px) {
+                .site-branding-text .site-title a {
+                    font-size: 26px;
+                }
+            }
+
+            @media only screen and (max-width: 375px) {
+                .site-branding-text .site-title a {
+                    font-size: 26px;
+                }
+            }
+            </style>
+    </head>
+<body class="page-template-default page page-id-33 logged-in admin-bar no-customize-support wp-custom-logo wp-embed-responsive user-registration-page  ta-hide-date-author-in-list defaultcolor elementor-default elementor-kit-115 elementor-page elementor-page-33" >
+<script type="text/javascript">
+/* <![CDATA[ */
+
+		(function() {
+			var request, b = document.body, c = 'className', cs = 'customize-support', rcs = new RegExp('(^|\\s+)(no-)?'+cs+'(\\s+|$)');
+
+				request = true;
+	
+			b[c] = b[c].replace( rcs, ' ' );
+			// The customizer requires postMessage and CORS (if the site is cross domain).
+			b[c] += ( window.postMessage && request ? ' ' : ' no-' ) + cs;
+		}());
+	
+/* ]]> */
+</script>
+		<div id="wpadminbar" class="nojq nojs">
+						<div class="quicklinks" id="wp-toolbar" role="navigation" aria-label="Barra de herramientas">
+				<ul role='menu' id='wp-admin-bar-root-default' class="ab-top-menu"><li role='group' id='wp-admin-bar-wp-logo' class="menupop"><a class='ab-item' role="menuitem" aria-expanded="false" href='http://www.sistemaut.cl/wp-admin/about.php'><span class="ab-icon" aria-hidden="true"></span><span class="screen-reader-text">Acerca de WordPress</span></a><div class="ab-sub-wrapper"><ul role='menu' aria-label='Acerca de WordPress' id='wp-admin-bar-wp-logo-default' class="ab-submenu"><li role='group' id='wp-admin-bar-about'><a class='ab-item' role="menuitem" href='http://www.sistemaut.cl/wp-admin/about.php'>Acerca de WordPress</a></li><li role='group' id='wp-admin-bar-contribute'><a class='ab-item' role="menuitem" href='http://www.sistemaut.cl/wp-admin/contribute.php'>Únete</a></li></ul><ul role='menu' aria-label='Acerca de WordPress' id='wp-admin-bar-wp-logo-external' class="ab-sub-secondary ab-submenu"><li role='group' id='wp-admin-bar-wporg'><a class='ab-item' role="menuitem" href='https://es.wordpress.org/'>WordPress.org</a></li><li role='group' id='wp-admin-bar-documentation'><a class='ab-item' role="menuitem" href='https://wordpress.org/documentation/'>Documentación</a></li><li role='group' id='wp-admin-bar-learn'><a class='ab-item' role="menuitem" href='https://learn.wordpress.org/'>Aprende WordPress</a></li><li role='group' id='wp-admin-bar-support-forums'><a class='ab-item' role="menuitem" href='https://es.wordpress.org/support/'>Soporte</a></li><li role='group' id='wp-admin-bar-feedback'><a class='ab-item' role="menuitem" href='https://es.wordpress.org/support/forum/comunidad/peticiones-y-feedback/'>Sugerencias</a></li></ul></div></li><li role='group' id='wp-admin-bar-site-name' class="menupop"><a class='ab-item' role="menuitem" aria-expanded="false" href='http://www.sistemaut.cl/wp-admin/'>Municipalidad DuocUC</a><div class="ab-sub-wrapper"><ul role='menu' aria-label='Municipalidad DuocUC' id='wp-admin-bar-site-name-default' class="ab-submenu"><li role='group' id='wp-admin-bar-dashboard'><a class='ab-item' role="menuitem" href='http://www.sistemaut.cl/wp-admin/'>Escritorio</a></li><li role='group' id='wp-admin-bar-plugins'><a class='ab-item' role="menuitem" href='http://www.sistemaut.cl/wp-admin/plugins.php'>Plugins</a></li></ul><ul role='menu' aria-label='Municipalidad DuocUC' id='wp-admin-bar-appearance' class="ab-submenu"><li role='group' id='wp-admin-bar-themes'><a class='ab-item' role="menuitem" href='http://www.sistemaut.cl/wp-admin/themes.php'>Temas</a></li><li role='group' id='wp-admin-bar-widgets'><a class='ab-item' role="menuitem" href='http://www.sistemaut.cl/wp-admin/widgets.php'>Widgets</a></li><li role='group' id='wp-admin-bar-menus'><a class='ab-item' role="menuitem" href='http://www.sistemaut.cl/wp-admin/nav-menus.php'>Menús</a></li><li role='group' id='wp-admin-bar-background' class="hide-if-customize"><a class='ab-item' role="menuitem" href='http://www.sistemaut.cl/wp-admin/themes.php?page=custom-background'>Fondo</a></li><li role='group' id='wp-admin-bar-header' class="hide-if-customize"><a class='ab-item' role="menuitem" href='http://www.sistemaut.cl/wp-admin/themes.php?page=custom-header'>Cabecera</a></li></ul></div></li><li role='group' id='wp-admin-bar-customize' class="hide-if-no-customize"><a class='ab-item' role="menuitem" href='http://www.sistemaut.cl/wp-admin/customize.php?url=http%3A%2F%2Fwww.sistemaut.cl%2Factividades-comunitarias%2F'>Personalizar</a></li><li role='group' id='wp-admin-bar-updates'><a class='ab-item' role="menuitem" href='http://www.sistemaut.cl/wp-admin/update-core.php'><span class="ab-icon" aria-hidden="true"></span><span class="ab-label" aria-hidden="true">2</span><span class="screen-reader-text updates-available-text">2 actualizaciones disponibles</span></a></li><li role='group' id='wp-admin-bar-comments'><a class='ab-item' role="menuitem" href='http://www.sistemaut.cl/wp-admin/edit-comments.php'><span class="ab-icon" aria-hidden="true"></span><span class="ab-label awaiting-mod pending-count count-0" aria-hidden="true">0</span><span class="screen-reader-text comments-in-moderation-text">0 comentarios en moderación</span></a></li><li role='group' id='wp-admin-bar-new-content' class="menupop"><a class='ab-item' role="menuitem" aria-expanded="false" href='http://www.sistemaut.cl/wp-admin/post-new.php'><span class="ab-icon" aria-hidden="true"></span><span class="ab-label">Añadir</span></a><div class="ab-sub-wrapper"><ul role='menu' aria-label='Añadir' id='wp-admin-bar-new-content-default' class="ab-submenu"><li role='group' id='wp-admin-bar-new-post'><a class='ab-item' role="menuitem" href='http://www.sistemaut.cl/wp-admin/post-new.php'>Entrada</a></li><li role='group' id='wp-admin-bar-new-media'><a class='ab-item' role="menuitem" href='http://www.sistemaut.cl/wp-admin/media-new.php'>Medio</a></li><li role='group' id='wp-admin-bar-new-page'><a class='ab-item' role="menuitem" href='http://www.sistemaut.cl/wp-admin/post-new.php?post_type=page'>Página</a></li><li role='group' id='wp-admin-bar-new-e-floating-buttons'><a class='ab-item' role="menuitem" href='http://www.sistemaut.cl/wp-admin/edit.php?action=elementor_new_post&#038;post_type=e-floating-buttons&#038;template_type=floating-buttons&#038;_wpnonce=f0488a6c76#library'>Elemento flotante</a></li><li role='group' id='wp-admin-bar-new-elementor_library'><a class='ab-item' role="menuitem" href='http://www.sistemaut.cl/wp-admin/post-new.php?post_type=elementor_library'>Plantilla</a></li><li role='group' id='wp-admin-bar-new-user'><a class='ab-item' role="menuitem" href='http://www.sistemaut.cl/wp-admin/user-new.php'>Usuario</a></li></ul></div></li><li role='group' id='wp-admin-bar-edit'><a class='ab-item' role="menuitem" href='http://www.sistemaut.cl/wp-admin/post.php?post=33&#038;action=edit'>Editar la página</a></li><li role='group' id='wp-admin-bar-user-registration-menu' class="menupop"><a class='ab-item' role="menuitem" aria-expanded="false" href='http://www.sistemaut.cl/wp-admin/admin.php?page=user-registration'>User Registration</a><div class="ab-sub-wrapper"><ul role='menu' id='wp-admin-bar-user-registration-menu-default' class="ab-submenu"><li role='group' id='wp-admin-bar-user-registration-all-forms'><a class='ab-item' role="menuitem" href='http://www.sistemaut.cl/wp-admin/admin.php?page=user-registration'>Todos los formularios</a></li><li role='group' id='wp-admin-bar-user-registration-add-new'><a class='ab-item' role="menuitem" href='http://www.sistemaut.cl/wp-admin/admin.php?page=add-new-registration'>Añadir nuevo</a></li><li role='group' id='wp-admin-bar-user-registration-settings'><a class='ab-item' role="menuitem" href='http://www.sistemaut.cl/wp-admin/admin.php?page=user-registration-settings'>Ajustes</a></li><li role='group' id='wp-admin-bar-user-registration-docs'><a class='ab-item' role="menuitem" href='https://docs.wpuserregistration.com/?utm_medium=admin-bar&#038;utm_source=WordPress&#038;utm_content=Documentation' target='_blank' rel='noopener noreferrer'>Documentación</a></li></ul></div></li></ul><ul role='menu' id='wp-admin-bar-top-secondary' class="ab-top-secondary ab-top-menu"><li role='group' id='wp-admin-bar-my-account' class="menupop with-avatar"><a class='ab-item' role="menuitem" aria-expanded="false" href='http://www.sistemaut.cl/wp-admin/profile.php'>Hola, <span class="display-name">admin</span><img alt='' src='http://1.gravatar.com/avatar/d7727ed9ea474193e5b17af6ff6362bd?s=26&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/d7727ed9ea474193e5b17af6ff6362bd?s=52&#038;d=mm&#038;r=g 2x' class='avatar avatar-26 photo' height='26' width='26' decoding='async'/></a><div class="ab-sub-wrapper"><ul role='menu' aria-label='Hola, admin' id='wp-admin-bar-user-actions' class="ab-submenu"><li role='group' id='wp-admin-bar-user-info'><a class='ab-item' role="menuitem" href='http://www.sistemaut.cl/wp-admin/profile.php'><img alt='' src='http://1.gravatar.com/avatar/d7727ed9ea474193e5b17af6ff6362bd?s=64&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/d7727ed9ea474193e5b17af6ff6362bd?s=128&#038;d=mm&#038;r=g 2x' class='avatar avatar-64 photo' height='64' width='64' decoding='async'/><span class='display-name'>admin</span><span class='display-name edit-profile'>Editar perfil</span></a></li><li role='group' id='wp-admin-bar-logout'><a class='ab-item' role="menuitem" href='http://www.sistemaut.cl/wp-login.php?action=logout&#038;_wpnonce=d65a9b26fd'>Salir</a></li></ul></div></li><li role='group' id='wp-admin-bar-search' class="admin-bar-search"><div class="ab-item ab-empty-item" tabindex="-1" role="menuitem"><form action="http://www.sistemaut.cl/" method="get" id="adminbarsearch"><input class="adminbar-input" name="s" id="adminbar-search" type="text" value="" maxlength="150" /><label for="adminbar-search" class="screen-reader-text">Buscar</label><input type="submit" class="adminbar-button" value="Buscar" /></form></div></li></ul>			</div>
+		</div>
+
+		<div id="page" class="site">
+<a class="skip-link screen-reader-text" href="#content">
+Saltar al contenido</a>
+    <div class="wrapper" id="custom-background-css">
+      <!--header--> 
+      <header class="bs-headfive"> 
+      <!-- Main Menu Area-->
+      <div class="bs-header-main d-none d-lg-block" style="background-image: url('images/header.jpg');">
+        <div class="inner">
+          <div class="container">
+            <div class="row align-items-center">
+              <div class="col-lg-4">
+                    <ul class="bs-social info-left">
+                <li>
+            <a  href="#">
+              <i class="fab fa-facebook"></i>
+            </a>
+          </li>
+                    <li>
+            <a  href="#">
+              <i class="fa-brands fa-x-twitter"></i>
+            </a>
+          </li>
+                    <li>
+            <a  href="#">
+              <i class="fab fa-instagram"></i>
+            </a>
+          </li>
+                    <li>
+            <a  href="#">
+              <i class="fab fa-youtube"></i>
+            </a>
+          </li>
+                    <li>
+            <a  href="#">
+              <i class="fab fa-telegram"></i>
+            </a>
+          </li>
+              </ul>
+                </div>
+              <div class="navbar-header col-lg-4">
+                <!-- Display the Custom Logo -->
+                <div class="site-logo">
+                    <a href="http://www.sistemaut.cl/" class="navbar-brand" rel="home"><img width="149" height="149" src="http://www.sistemaut.cl/wp-content/uploads/2024/10/cropped-file.png" class="custom-logo" alt="Municipalidad DuocUC" decoding="async" /></a>                </div>
+                <div class="site-branding-text  ">
+                                      <p class="site-title"> <a href="http://www.sistemaut.cl/" rel="home">Municipalidad DuocUC</a></p>
+                                      <p class="site-description">Nos preocupamos de usted</p>
+                </div>
+              </div>
+              <div class="col-lg-4 d-none d-lg-flex justify-content-end">
+                <!-- Right nav -->
+                <div class="info-right right-nav d-flex align-items-center justify-content-center justify-content-md-end">
+                            <a class="msearch ml-auto"  data-bs-target="#exampleModal"  href="#" data-bs-toggle="modal">
+                <i class="fa fa-search"></i>
+            </a> 
+                  <a class="subscribe-btn" href="#"  target="_blank"   ><i class="fas fa-bell"></i></a>
+                  
+            <label class="switch" for="switch">
+                <input type="checkbox" name="theme" id="switch" class="defaultcolor" data-skin-mode="defaultcolor">
+                <span class="slider"></span>
+            </label>
+                        </div>
+                <!-- /Right nav -->
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- /Main Menu Area-->
+      <div class="bs-menu-full">
+        <nav class="navbar navbar-expand-lg navbar-wp">
+          <div class="container">
+            <!-- Right nav -->
+            <div class="m-header align-items-center">
+              <!-- navbar-toggle -->
+              <button class="navbar-toggler x collapsed" type="button" data-bs-toggle="collapse"
+                data-bs-target="#navbar-wp" aria-controls="navbar-wp" aria-expanded="false"
+                aria-label="Toggle navigation"> 
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              <div class="navbar-header">
+                  <!-- Display the Custom Logo -->
+                  <div class="site-logo">
+                      <a href="http://www.sistemaut.cl/" class="navbar-brand" rel="home"><img width="149" height="149" src="http://www.sistemaut.cl/wp-content/uploads/2024/10/cropped-file.png" class="custom-logo" alt="Municipalidad DuocUC" decoding="async" /></a>                  </div>
+                  <div class="site-branding-text  ">
+                    <p class="site-title"> <a href="http://www.sistemaut.cl/" rel="home">Municipalidad DuocUC</a></p>
+                    <p class="site-description">Nos preocupamos de usted</p>
+                  </div>
+              </div>
+              <div class="right-nav"> 
+                                    <a class="msearch ml-auto" href=".bs_model" data-bs-toggle="modal"> <i class="fa fa-search"></i> </a>
+                              </div>
+            </div>
+            <!-- /Right nav -->
+            <!-- Navigation -->
+            <!-- Navigation -->
+              <div class="collapse navbar-collapse" id="navbar-wp">
+                <ul id="menu-navbar-principal" class="mx-auto nav navbar-nav"><li id="menu-item-113" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113"><a class="nav-link" title="Mi cuenta" href="http://www.sistemaut.cl/mi-cuenta/">Mi cuenta</a></li>
+<li id="menu-item-112" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-112"><a class="nav-link" title="Registro" href="http://www.sistemaut.cl/registro/">Registro</a></li>
+<li id="menu-item-12" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-12"><a class="nav-link" title="Inicio" href="http://www.sistemaut.cl">Inicio</a></li>
+<li id="menu-item-13" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-13 active"><a class="nav-link" title="Actividades Comunitarias" href="http://www.sistemaut.cl/actividades-comunitarias/">Actividades Comunitarias</a></li>
+<li id="menu-item-14" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-14 dropdown"><a class="nav-link" title="Tramites" href="http://www.sistemaut.cl/tramites/" data-toggle="dropdown" class="dropdown-toggle">Tramites </a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-114" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-114"><a class="dropdown-item" title="ChileAtiende" href="http://www.sistemaut.cl/tramites/">ChileAtiende</a></li>
+</ul>
+</li>
+<li id="menu-item-15" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15"><a class="nav-link" title="Servicios" href="http://www.sistemaut.cl/servicios/">Servicios</a></li>
+<li id="menu-item-52" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-52"><a class="nav-link" title="Acerca De" href="http://www.sistemaut.cl/acerca-de/">Acerca De</a></li>
+<li id="menu-item-53" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-53"><a class="nav-link" title="Contacto" href="http://www.sistemaut.cl/contacto/">Contacto</a></li>
+</ul>              </div>
+            <!-- Right nav -->
+             
+            <!-- /Right nav -->
+          </div>
+        </nav>
+      </div>
+      <!--/main Menu Area-->
+    </header>
+<!--mainfeatured start-->
+<div class="mainfeatured mt-5">
+  <!--container-->
+  <div class="container">         
+     
+  </div><!--/container-->
+</div>
+<!--mainfeatured end-->
+   <!--==================== main content section ====================-->
+<main id="content" class="page-class content">
+	<!--container-->
+	<div class="container">
+	        <div class="bs-card-box page-entry-title">
+                        <h1 class="entry-title title mb-0">Actividades Comunitarias</h1>
+                    <div class="bs-breadcrumb-section">
+            <div class="overlay">
+                <div class="container">
+                    <div class="row">
+                        <nav aria-label="breadcrumb">
+                            <ol class="breadcrumb">
+                                <div role="navigation" aria-label="Ruta de navegación" class="breadcrumb-trail breadcrumbs" itemprop="breadcrumb"><ul class="breadcrumb trail-items" itemscope itemtype="http://schema.org/BreadcrumbList"><meta name="numberOfItems" content="2" /><meta name="itemListOrder" content="Ascending" /><li itemprop="itemListElement breadcrumb-item" itemscope itemtype="http://schema.org/ListItem" class="trail-item breadcrumb-item  trail-begin"><a href="http://www.sistemaut.cl/" rel="home" itemprop="item"><span itemprop="name">Página de inicio</span></a><meta itemprop="position" content="1" /></li><li itemprop="itemListElement breadcrumb-item" itemscope itemtype="http://schema.org/ListItem" class="trail-item breadcrumb-item  trail-end"><span itemprop="name"><span itemprop="name">Actividades Comunitarias</span></span><meta itemprop="position" content="2" /></li></ul></div> 
+                            </ol>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </div>
+            </div>
+    		<!--row-->
+        <div class="row">
+			<!-- Blog Area -->
+		 					<div class="col-lg-8">
+            <div id="post-33" class="post-33 page type-page status-publish hentry">
+				<div class="bs-card-box padding-20"> 		<div data-elementor-type="wp-page" data-elementor-id="33" class="elementor elementor-33">
+				<div class="elementor-element elementor-element-16c4ece0 e-con-full e-flex e-con e-parent" data-id="16c4ece0" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+		<div class="elementor-element elementor-element-4fae7c88 e-con-full e-flex e-con e-child" data-id="4fae7c88" data-element_type="container">
+				<div class="elementor-element elementor-element-6782f2f7 elementor-widget elementor-widget-image" data-id="6782f2f7" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img fetchpriority="high" decoding="async" width="640" height="480" src="http://www.sistemaut.cl/wp-content/uploads/2024/10/5.png" class="attachment-large size-large wp-image-150" alt="" srcset="http://www.sistemaut.cl/wp-content/uploads/2024/10/5.png 800w, http://www.sistemaut.cl/wp-content/uploads/2024/10/5-300x225.png 300w, http://www.sistemaut.cl/wp-content/uploads/2024/10/5-768x576.png 768w" sizes="(max-width: 640px) 100vw, 640px" />													</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-466932b e-con-full e-flex e-con e-child" data-id="466932b" data-element_type="container">
+				<div class="elementor-element elementor-element-3a31e5ea elementor-invisible elementor-widget elementor-widget-heading" data-id="3a31e5ea" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;slideInDown&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h1 class="elementor-heading-title elementor-size-default">Junta de<br>vecinos</h1>		</div>
+				</div>
+				<div class="elementor-element elementor-element-b039fff elementor-widget elementor-widget-text-editor" data-id="b039fff" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Una junta de vecinos es un espacio donde los residentes se reúnen para mejorar su comunidad a través del diálogo y la colaboración.</p>						</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-65dc18da e-con-full e-flex e-con e-parent" data-id="65dc18da" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+		<div class="elementor-element elementor-element-58c1fc04 e-con-full e-flex e-con e-child" data-id="58c1fc04" data-element_type="container">
+				<div class="elementor-element elementor-element-460777b elementor-invisible elementor-widget elementor-widget-heading" data-id="460777b" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;slideInDown&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Proyectos Comunitarios</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-c1a513a elementor-invisible elementor-widget elementor-widget-text-editor" data-id="c1a513a" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;slideInDown&quot;}" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Iniciativas colaborativas diseñadas para mejorar la infraestructura, servicios y calidad de vida de los residentes, se involucran a la comunidad en planificación y ejecución de actividades para sus necesidades o aspiraciones colectivas</p>						</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-7019f09e e-con-full e-flex e-con e-child" data-id="7019f09e" data-element_type="container">
+				<div class="elementor-element elementor-element-1fd33e0 elementor-widget elementor-widget-image" data-id="1fd33e0" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img decoding="async" width="640" height="479" src="http://www.sistemaut.cl/wp-content/uploads/2024/10/file_20210731203011.jpeg" class="attachment-large size-large wp-image-35" alt="" srcset="http://www.sistemaut.cl/wp-content/uploads/2024/10/file_20210731203011.jpeg 820w, http://www.sistemaut.cl/wp-content/uploads/2024/10/file_20210731203011-300x225.jpeg 300w, http://www.sistemaut.cl/wp-content/uploads/2024/10/file_20210731203011-768x575.jpeg 768w" sizes="(max-width: 640px) 100vw, 640px" />													</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-16c3d5fc e-con-full e-flex e-con e-parent" data-id="16c3d5fc" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+		<div class="elementor-element elementor-element-19c4ee0d e-con-full e-flex e-con e-child" data-id="19c4ee0d" data-element_type="container">
+				<div class="elementor-element elementor-element-7f3e1210 elementor-invisible elementor-widget elementor-widget-heading" data-id="7f3e1210" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;slideInDown&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Tercera Edad</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-48ee99aa elementor-invisible elementor-widget elementor-widget-text-editor" data-id="48ee99aa" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;slideInDown&quot;}" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Los eventos para la tercera edad en la municipalidad son actividades diseñadas para promover la socialización, el bienestar y la participación activa de los adultos mayores. Incluyen talleres, actividades recreativas, clases de ejercicio y programas educativos que buscan mejorar la calidad de vida y fortalecer los lazos comunitarios.</p>						</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-3d1aa9c e-con-full e-flex e-con e-child" data-id="3d1aa9c" data-element_type="container">
+				<div class="elementor-element elementor-element-7bd2990 elementor-widget elementor-widget-image" data-id="7bd2990" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="640" height="411" src="http://www.sistemaut.cl/wp-content/uploads/2024/10/Centro-Comunitario-Adulto-Mayor-6-1024x657.jpg" class="attachment-large size-large wp-image-38" alt="" srcset="http://www.sistemaut.cl/wp-content/uploads/2024/10/Centro-Comunitario-Adulto-Mayor-6-1024x657.jpg 1024w, http://www.sistemaut.cl/wp-content/uploads/2024/10/Centro-Comunitario-Adulto-Mayor-6-300x193.jpg 300w, http://www.sistemaut.cl/wp-content/uploads/2024/10/Centro-Comunitario-Adulto-Mayor-6-768x493.jpg 768w, http://www.sistemaut.cl/wp-content/uploads/2024/10/Centro-Comunitario-Adulto-Mayor-6-1536x986.jpg 1536w, http://www.sistemaut.cl/wp-content/uploads/2024/10/Centro-Comunitario-Adulto-Mayor-6-2048x1314.jpg 2048w" sizes="(max-width: 640px) 100vw, 640px" />													</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-1fd051d5 e-con-full e-flex e-con e-parent" data-id="1fd051d5" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+		<div class="elementor-element elementor-element-a248337 e-con-full e-flex e-con e-child" data-id="a248337" data-element_type="container">
+				<div class="elementor-element elementor-element-2d91e9b5 elementor-invisible elementor-widget elementor-widget-heading" data-id="2d91e9b5" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;slideInDown&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Asistencia Judicial</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-2072d457 elementor-invisible elementor-widget elementor-widget-text-editor" data-id="2072d457" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;slideInDown&quot;}" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>orientación legal gratuita y apoyo a los ciudadanos en asuntos legales, como trámites, disputas, y defensa de derechos. Este servicio asegura que todos tengan acceso a la justicia, independientemente de su situación económica.</p>						</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-5c52fbb9 e-con-full e-flex e-con e-child" data-id="5c52fbb9" data-element_type="container">
+				<div class="elementor-element elementor-element-cc5decb elementor-widget elementor-widget-image" data-id="cc5decb" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="355" height="142" src="http://www.sistemaut.cl/wp-content/uploads/2024/10/images.png" class="attachment-large size-large wp-image-64" alt="" srcset="http://www.sistemaut.cl/wp-content/uploads/2024/10/images.png 355w, http://www.sistemaut.cl/wp-content/uploads/2024/10/images-300x120.png 300w" sizes="(max-width: 355px) 100vw, 355px" />													</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-22269983 e-con-full e-flex e-con e-parent" data-id="22269983" data-element_type="container">
+				<div class="elementor-element elementor-element-51bba44b elementor-invisible elementor-widget elementor-widget-heading" data-id="51bba44b" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;zoomInUp&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">Preguntas Frecuentes</h3>		</div>
+				</div>
+		<div class="elementor-element elementor-element-bf1b183 e-con-full e-flex e-con e-child" data-id="bf1b183" data-element_type="container">
+				<div class="elementor-element elementor-element-770230c9 elementor-widget__width-inherit elementor-widget elementor-widget-toggle" data-id="770230c9" data-element_type="widget" data-widget_type="toggle.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-toggle">
+							<div class="elementor-toggle-item">
+					<h4 id="elementor-tab-title-1991" class="elementor-tab-title" data-tab="1" role="button" aria-controls="elementor-tab-content-1991" aria-expanded="false">
+												<a class="elementor-toggle-title" tabindex="0">¿Cómo puedo obtener una patente municipal?</a>
+					</h4>
+
+					<div id="elementor-tab-content-1991" class="elementor-tab-content elementor-clearfix" data-tab="1" role="region" aria-labelledby="elementor-tab-title-1991"><ul>
+<li>A detailed answer to provide information about your business, build trust with potential clients, and help convince the visitor that you are a good fit for them.</li>
+</ul></div>
+				</div>
+							<div class="elementor-toggle-item">
+					<h4 id="elementor-tab-title-1992" class="elementor-tab-title" data-tab="2" role="button" aria-controls="elementor-tab-content-1992" aria-expanded="false">
+												<a class="elementor-toggle-title" tabindex="0">¿Qué es el derecho de aseo y cómo se paga?</a>
+					</h4>
+
+					<div id="elementor-tab-content-1992" class="elementor-tab-content elementor-clearfix" data-tab="2" role="region" aria-labelledby="elementor-tab-title-1992"><ul>
+<li>Es un impuesto municipal por el servicio de recolección y disposición de basura. Se paga mensualmente junto con otros tributos municipales.</li>
+</ul></div>
+				</div>
+							<div class="elementor-toggle-item">
+					<h4 id="elementor-tab-title-1993" class="elementor-tab-title" data-tab="3" role="button" aria-controls="elementor-tab-content-1993" aria-expanded="false">
+												<a class="elementor-toggle-title" tabindex="0">¿Cómo puedo solicitar un permiso de circulación?</a>
+					</h4>
+
+					<div id="elementor-tab-content-1993" class="elementor-tab-content elementor-clearfix" data-tab="3" role="region" aria-labelledby="elementor-tab-title-1993"><ul>
+<li>Debes presentar la documentación del vehículo, como el certificado de revisión técnica y el seguro obligatorio, en la Tesorería General de la República o en la municipalidad correspondiente.</li>
+</ul></div>
+				</div>
+							<div class="elementor-toggle-item">
+					<h4 id="elementor-tab-title-1994" class="elementor-tab-title" data-tab="4" role="button" aria-controls="elementor-tab-content-1994" aria-expanded="false">
+												<a class="elementor-toggle-title" tabindex="0">¿Qué hacer si no puedo pagar mis impuestos municipales a tiempo?</a>
+					</h4>
+
+					<div id="elementor-tab-content-1994" class="elementor-tab-content elementor-clearfix" data-tab="4" role="region" aria-labelledby="elementor-tab-title-1994"><ul>
+<li>Contacta al Departamento de Cobranzas de la municipalidad para discutir opciones de pago y evitar sanciones.</li>
+</ul></div>
+				</div>
+								</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-7850f7f3 elementor-widget__width-inherit elementor-widget elementor-widget-toggle" data-id="7850f7f3" data-element_type="widget" data-widget_type="toggle.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-toggle">
+							<div class="elementor-toggle-item">
+					<h4 id="elementor-tab-title-2011" class="elementor-tab-title" data-tab="1" role="button" aria-controls="elementor-tab-content-2011" aria-expanded="false">
+												<a class="elementor-toggle-title" tabindex="0">¿Cómo puedo participar en una junta de vecinos?</a>
+					</h4>
+
+					<div id="elementor-tab-content-2011" class="elementor-tab-content elementor-clearfix" data-tab="1" role="region" aria-labelledby="elementor-tab-title-2011"><ul>
+<li>Asiste a las reuniones programadas en tu barrio y participa en las discusiones y decisiones. Puedes inscribirte en el registro de la junta para recibir información y convocatorias.</li>
+</ul></div>
+				</div>
+							<div class="elementor-toggle-item">
+					<h4 id="elementor-tab-title-2012" class="elementor-tab-title" data-tab="2" role="button" aria-controls="elementor-tab-content-2012" aria-expanded="false">
+												<a class="elementor-toggle-title" tabindex="0">¿Qué servicios ofrece la asistencia judicial municipal?</a>
+					</h4>
+
+					<div id="elementor-tab-content-2012" class="elementor-tab-content elementor-clearfix" data-tab="2" role="region" aria-labelledby="elementor-tab-title-2012"><ul class="relative list-outside marker:text-foreground-750 dark:marker:text-foreground-600 flex flex-col ms-4 px-1">
+<li class="ps-2">
+<p>Ofrecen orientación legal gratuita, asesoría en trámites y representación en casos judiciales para personas que no pueden costear un abogado particular.</p>
+</li>
+</ul></div>
+				</div>
+							<div class="elementor-toggle-item">
+					<h4 id="elementor-tab-title-2013" class="elementor-tab-title" data-tab="3" role="button" aria-controls="elementor-tab-content-2013" aria-expanded="false">
+												<a class="elementor-toggle-title" tabindex="0">¿Cómo puedo reportar un problema en mi barrio?</a>
+					</h4>
+
+					<div id="elementor-tab-content-2013" class="elementor-tab-content elementor-clearfix" data-tab="3" role="region" aria-labelledby="elementor-tab-title-2013"><ul>
+<li> Puedes contactar al Departamento de Obras Municipales o utilizar las plataformas digitales de la municipalidad para reportar problemas como alumbrado público, baches o recolección de basura.</li>
+</ul></div>
+				</div>
+							<div class="elementor-toggle-item">
+					<h4 id="elementor-tab-title-2014" class="elementor-tab-title" data-tab="4" role="button" aria-controls="elementor-tab-content-2014" aria-expanded="false">
+												<a class="elementor-toggle-title" tabindex="0">¿Qué beneficios hay para personas mayores en la municipalidad?</a>
+					</h4>
+
+					<div id="elementor-tab-content-2014" class="elementor-tab-content elementor-clearfix" data-tab="4" role="region" aria-labelledby="elementor-tab-title-2014"><ul>
+<li>La municipalidad ofrece programas de bienestar, talleres recreativos y educativos, y actividades físicas para fomentar la socialización y el bienestar de los adultos mayores.</li>
+</ul></div>
+				</div>
+								</div>
+				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-241adb7e e-flex e-con-boxed e-con e-parent" data-id="241adb7e" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-355f76eb elementor-invisible elementor-widget elementor-widget-heading" data-id="355f76eb" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;zoomInUp&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">Participa en nuestra comunidad</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-60fbee35 elementor-widget elementor-widget-text-editor" data-id="60fbee35" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>«Conecta con tus vecinos y disfruta de actividades que mejoran la calidad de vida»</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-3a5e49f elementor-mobile-align-center elementor-align-center elementor-invisible elementor-widget elementor-widget-button" data-id="3a5e49f" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;shake&quot;}" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Contáctanos</span>
+					</span>
+					</a>
+				</div>
+						</div>
+				</div>
+					</div>
+				</div>
+		<footer class="elementor-element elementor-element-226ddb63 e-con-full e-flex e-con e-parent" data-id="226ddb63" data-element_type="container">
+		<div class="elementor-element elementor-element-dd52db5 e-con-full e-flex e-con e-child" data-id="dd52db5" data-element_type="container">
+				<div class="elementor-element elementor-element-5f8e7e7a elementor-widget elementor-widget-image" data-id="5f8e7e7a" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img decoding="async" src="http://www.sistemaut.cl/wp-content/plugins/elementor/assets/images/placeholder.png" title="" alt="" loading="lazy" />													</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-3f61e39a e-con-full e-flex e-con e-child" data-id="3f61e39a" data-element_type="container">
+				<div class="elementor-element elementor-element-24a64af1 elementor-icon-list--layout-inline elementor-tablet-align-center elementor-align-center elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="24a64af1" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items elementor-inline-items">
+							<li class="elementor-icon-list-item elementor-inline-item">
+										<span class="elementor-icon-list-text">123-456-7890</span>
+									</li>
+								<li class="elementor-icon-list-item elementor-inline-item">
+										<span class="elementor-icon-list-text">123 Main Street, New York, NY 10001</span>
+									</li>
+								<li class="elementor-icon-list-item elementor-inline-item">
+										<span class="elementor-icon-list-text">Mon-Fri 9:00AM - 5:00PM</span>
+									</li>
+						</ul>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-183f8cb8 e-con-full e-flex e-con e-child" data-id="183f8cb8" data-element_type="container">
+				<div class="elementor-element elementor-element-27c54992 e-grid-align-right e-grid-align-tablet-right e-grid-align-mobile-center elementor-widget-mobile__width-inherit elementor-shape-rounded elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="27c54992" data-element_type="widget" data-widget_type="social-icons.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-social-icons-wrapper elementor-grid">
+							<span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook-f elementor-repeater-item-3f1b7ac" target="_blank">
+						<span class="elementor-screen-only">Facebook-f</span>
+						<svg class="e-font-icon-svg e-fab-facebook-f" viewBox="0 0 320 512" xmlns="http://www.w3.org/2000/svg"><path d="M279.14 288l14.22-92.66h-88.91v-60.13c0-25.35 12.42-50.06 52.24-50.06h40.42V6.26S260.43 0 225.36 0c-73.22 0-121.08 44.38-121.08 124.72v70.62H22.89V288h81.39v224h100.17V288z"></path></svg>					</a>
+				</span>
+							<span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon- elementor-repeater-item-5c0ce3c" target="_blank">
+						<span class="elementor-screen-only"></span>
+											</a>
+				</span>
+							<span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-repeater-item-828f132" target="_blank">
+						<span class="elementor-screen-only">Twitter</span>
+						<svg class="e-font-icon-svg e-fab-twitter" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"></path></svg>					</a>
+				</span>
+					</div>
+				</div>
+				</div>
+				</div>
+				</footer>
+		<div class="elementor-element elementor-element-19113667 e-flex e-con-boxed e-con e-parent" data-id="19113667" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-374c4d2f elementor-widget elementor-widget-heading" data-id="374c4d2f" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<p class="elementor-heading-title elementor-size-default">© 2024 All Rights Reserved.</p>		</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		<span class="edit-link"><i class="fas fa-edit"></i><a class="post-edit-link" href="http://www.sistemaut.cl/wp-admin/post.php?post=33&#038;action=edit">Editar <span class="screen-reader-text">Actividades Comunitarias</span></a></span>	
+				</div>
+			</div>
+		</div>
+	<!--Sidebar Area-->
+		      		<!--sidebar-->
+	          	<!--col-md-4-->
+					<aside class="col-lg-4">
+											</aside>
+	          	<!--/col-md-4-->
+      		<!--/sidebar-->
+      			<!--Sidebar Area-->		</div><!--/row-->
+	</div><!--/container-->
+</main>
+<!--==================== Missed ====================-->
+<div class="missed">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="wd-back">
+                    <div class="bs-widget-title">
+            <h2 class="title">Te has perdido</h2>
+          </div>
+                    <div class="missed-area">
+                      <div class="bs-blog-post three md back-img bshre mb-0"  style="background-image: url('http://www.sistemaut.cl/wp-content/uploads/2024/10/17161D574C43406D15100F56534944751F131A18584747781C-1200x800-1-1024x683.webp'); ">
+              <a class="link-div" href="http://www.sistemaut.cl/2024/10/11/carabineros-de-chile-estan-trabajando-para-ayudar-a-nuestra-comunidad/"></a>
+              <div class="inner">
+                            <div class="bs-blog-category">
+            
+                    <a class="blogus-categories category-color-1" href="http://www.sistemaut.cl/category/comunidad/" alt="Ver todas las entradas en Comunidad"> 
+                        Comunidad
+                    </a>
+                    <a class="blogus-categories category-color-1" href="http://www.sistemaut.cl/category/unidad-vecinal/" alt="Ver todas las entradas en Unidad Vecinal"> 
+                        Unidad Vecinal
+                    </a>        </div>
+                        <h4 class="title sm mb-0"> <a href="http://www.sistemaut.cl/2024/10/11/carabineros-de-chile-estan-trabajando-para-ayudar-a-nuestra-comunidad/" title="Permalink to: Carabineros de Chile están trabajando para ayudar a nuestra comunidad"> Carabineros de Chile están trabajando para ayudar a nuestra comunidad</a> </h4> 
+              </div>
+            </div>
+                      <div class="bs-blog-post three md back-img bshre mb-0"  style="background-image: url('http://www.sistemaut.cl/wp-content/uploads/2024/10/jfg3657-1024x683.jpg'); ">
+              <a class="link-div" href="http://www.sistemaut.cl/2024/10/11/encuentras-que-tienes-buen-liderazgo-participa-y-posiblemente-seas-el-nuevo-consejal-vecinal/"></a>
+              <div class="inner">
+                            <div class="bs-blog-category">
+            
+                    <a class="blogus-categories category-color-1" href="http://www.sistemaut.cl/category/unidad-vecinal/" alt="Ver todas las entradas en Unidad Vecinal"> 
+                        Unidad Vecinal
+                    </a>        </div>
+                        <h4 class="title sm mb-0"> <a href="http://www.sistemaut.cl/2024/10/11/encuentras-que-tienes-buen-liderazgo-participa-y-posiblemente-seas-el-nuevo-consejal-vecinal/" title="Permalink to: ¿Encuentras que tienes buen liderazgo? ¡Participa y posiblemente seas el nuevo consejal vecinal!"> ¿Encuentras que tienes buen liderazgo? ¡Participa y posiblemente seas el nuevo consejal vecinal!</a> </h4> 
+              </div>
+            </div>
+                      <div class="bs-blog-post three md back-img bshre mb-0"  style="background-image: url('http://www.sistemaut.cl/wp-content/uploads/2024/10/71706741-ladron-robar-el-bolso-y-sacudidas-de-la-mujer-joven-en-parque-publico-1-1024x683.jpg'); ">
+              <a class="link-div" href="http://www.sistemaut.cl/2024/10/11/cuidado-nuevos-procesos-de-robo/"></a>
+              <div class="inner">
+                            <div class="bs-blog-category">
+            
+                    <a class="blogus-categories category-color-1" href="http://www.sistemaut.cl/category/comunidad/" alt="Ver todas las entradas en Comunidad"> 
+                        Comunidad
+                    </a>        </div>
+                        <h4 class="title sm mb-0"> <a href="http://www.sistemaut.cl/2024/10/11/cuidado-nuevos-procesos-de-robo/" title="Permalink to: ¡CUIDADO! Nuevos procesos de robo"> ¡CUIDADO! Nuevos procesos de robo</a> </h4> 
+              </div>
+            </div>
+                      <div class="bs-blog-post three md back-img bshre mb-0"  style="background-image: url('http://www.sistemaut.cl/wp-content/uploads/2024/10/Diseno-sin-titulo.jpg'); ">
+              <a class="link-div" href="http://www.sistemaut.cl/2024/10/11/nuevo-parque-de-interacciones-para-ninos/"></a>
+              <div class="inner">
+                            <div class="bs-blog-category">
+            
+                    <a class="blogus-categories category-color-1" href="http://www.sistemaut.cl/category/comunidad/" alt="Ver todas las entradas en Comunidad"> 
+                        Comunidad
+                    </a>        </div>
+                        <h4 class="title sm mb-0"> <a href="http://www.sistemaut.cl/2024/10/11/nuevo-parque-de-interacciones-para-ninos/" title="Permalink to: Nuevo parque de interacciones para niños"> Nuevo parque de interacciones para niños</a> </h4> 
+              </div>
+            </div>
+                    </div><!-- end inner row -->
+        </div><!-- end wd-back -->
+      </div><!-- end col12 -->
+    </div><!-- end row -->
+  </div><!-- end container -->
+</div> 
+<!-- end missed -->
+<!--==================== FOOTER AREA ====================-->
+    <footer class="footer">
+        <div class="overlay" style="background-color: ;">
+                        <!--Start bs-footer-widget-area-->
+    <div class="bs-footer-bottom-area">
+      <div class="container">
+        <div class="divide-line"></div>
+        <div class="row align-items-center">
+          <div class="col-md-6">
+            <div class="footer-logo">
+              <!-- Display the Custom Logo -->
+              <div class="site-logo">
+                <a href="http://www.sistemaut.cl/" class="navbar-brand" rel="home"><img width="149" height="149" src="http://www.sistemaut.cl/wp-content/uploads/2024/10/cropped-file.png" class="custom-logo" alt="Municipalidad DuocUC" decoding="async" /></a>              </div>
+              <div class="site-branding-text">
+                <p class="site-title-footer"> <a href="http://www.sistemaut.cl/" rel="home">Municipalidad DuocUC</a></p>
+                <p class="site-description-footer">Nos preocupamos de usted</p>
+              </div>
+            </div>
+          </div>
+          <!--col-md-6-->
+          <div class="col-md-6 footer-social">
+                <ul class="bs-social justify-content-center justify-content-md-end">
+                <li>
+            <a  href="#">
+              <i class="fab fa-facebook"></i>
+            </a>
+          </li>
+                    <li>
+            <a  href="#">
+              <i class="fa-brands fa-x-twitter"></i>
+            </a>
+          </li>
+                    <li>
+            <a  href="#">
+              <i class="fab fa-instagram"></i>
+            </a>
+          </li>
+                    <li>
+            <a  href="#">
+              <i class="fab fa-youtube"></i>
+            </a>
+          </li>
+                    <li>
+            <a  href="#">
+              <i class="fab fa-telegram"></i>
+            </a>
+          </li>
+              </ul>
+            </div>
+          <!--/col-md-6-->
+        </div>
+        <!--/row-->
+      </div>
+        <!--/container-->
+    </div>
+    <!--End bs-footer-widget-area-->
+                    <div class="bs-footer-copyright">
+          <div class="container">
+              <div class="row">
+                                   <div class="col-md-12 text-center">
+                    <p class="mb-0">
+                    <span class="copyright-text">Copyright &copy; All rights reserved</span>
+                      <span class="sep"> | </span>
+                      <a href="https://themeansar.com/free-themes/blogus/" target="_blank">Blogus</a> por <a href="https://themeansar.com" target="_blank">Themeansar</a>.                       </a>
+                      </p>
+                  </div>
+                                  </div>
+              </div>
+          </div>
+      </div> 
+            </div>
+        <!--/overlay-->
+    </footer>
+    <!--/footer-->
+  </div>
+  <!--/wrapper-->
+  
+  <!--Scroll To Top-->
+            <a href="#" class="bs_upscr bounceInup animated"><i class="fas fa-angle-up"></i></a> 
+      <!--/Scroll To Top-->
+  
+  <!-- Modal -->
+          <div class="modal fade bs_model" id="exampleModal" data-bs-keyboard="true" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+        <div class="modal-dialog  modal-lg modal-dialog-centered">
+          <div class="modal-content">
+            <div class="modal-header">
+              <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class="fa fa-times"></i></button>
+            </div>
+            <div class="modal-body">
+              <form role="search" method="get" class="search-form" action="http://www.sistemaut.cl/">
+				<label>
+					<span class="screen-reader-text">Buscar:</span>
+					<input type="search" class="search-field" placeholder="Buscar &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Buscar" />
+			</form>            </div>
+          </div>
+        </div>
+      </div>
+                           
+  <!-- /Modal -->
+
+
+    <style type="text/css">
+            .site-title a,
+        .site-description {
+            color: #000;
+        }
+
+        .site-branding-text .site-title a {
+            font-size: 30px;
+        }
+
+        @media only screen and (max-width: 640px) {
+            .site-branding-text .site-title a {
+                font-size: 26px;
+
+            }
+        }
+
+        @media only screen and (max-width: 375px) {
+            .site-branding-text .site-title a {
+                font-size: 26px;
+
+            }
+        }
+
+        </style>
+        <style>
+        footer .footer-logo img{
+            width: 210px;
+            height: 70px;
+        } 
+    </style>
+<style type="text/css">
+/*==================== Site title and tagline ====================*/
+.site-title a, .site-description{
+  color: #000;
+}
+body.dark .site-title a, body.dark .site-description{
+  color: #fff;
+}
+/*==================== Menu color ====================*/
+
+.bs-default .navbar-collapse ul, .navbar-wp .dropdown-menu > li > a:hover, .navbar-wp .dropdown-menu > li > a:focus {
+    background: ;
+}
+
+/*=================== Slider Color ===================*/
+.homemain .bs-slide.overlay:before{
+	background-color: #00000099;
+} 
+.bs-slide .inner .title a{
+	color: ;
+}
+
+.bs-slide .inner .title{
+	font-size: 50px;
+
+}
+footer .bs-footer-copyright p, footer .bs-footer-copyright a {
+	color: ;
+}
+footer .bs-footer-copyright {
+	background: ;
+}
+
+footer .bs-widget p, .site-title-footer a, .site-title-footer a:hover, .site-description-footer, .site-description-footer:hover, footer .bs-widget h6, footer .mg_contact_widget .bs-widget h6 {
+	color: ;
+}
+@media (max-width: 991px){
+	.bs-slide .inner .title{
+		font-size: 2.5em;
+	}
+}
+@media (max-width: 640px){
+	.bs-slide .inner .title{
+		font-size: 1.5em;
+	}
+}
+</style>
+			<script type='text/javascript'>
+				const lazyloadRunObserver = () => {
+					const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );
+					const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {
+						entries.forEach( ( entry ) => {
+							if ( entry.isIntersecting ) {
+								let lazyloadBackground = entry.target;
+								if( lazyloadBackground ) {
+									lazyloadBackground.classList.add( 'e-lazyloaded' );
+								}
+								lazyloadBackgroundObserver.unobserve( entry.target );
+							}
+						});
+					}, { rootMargin: '200px 0px 200px 0px' } );
+					lazyloadBackgrounds.forEach( ( lazyloadBackground ) => {
+						lazyloadBackgroundObserver.observe( lazyloadBackground );
+					} );
+				};
+				const events = [
+					'DOMContentLoaded',
+					'elementor/lazyload/observe',
+				];
+				events.forEach( ( event ) => {
+					document.addEventListener( event, lazyloadRunObserver );
+				} );
+			</script>
+			<script type="text/template" id="tmpl-elementor-templates-modal__header">
+	<div class="elementor-templates-modal__header__logo-area"></div>
+	<div class="elementor-templates-modal__header__menu-area"></div>
+	<div class="elementor-templates-modal__header__items-area">
+		<# if ( closeType ) { #>
+			<div class="elementor-templates-modal__header__close elementor-templates-modal__header__close--{{{ closeType }}} elementor-templates-modal__header__item">
+				<# if ( 'skip' === closeType ) { #>
+				<span>Saltar</span>
+				<# } #>
+				<i class="eicon-close"
+				   aria-hidden="true"
+				   title="{{{ $e.components?.get( 'document/elements' )?.utils?.getTitleForLibraryClose() }}}"></i>
+				<span class="elementor-screen-only">{{{ $e.components?.get( 'document/elements' )?.utils?.getTitleForLibraryClose() }}}</span>
+			</div>
+		<# } #>
+		<div id="elementor-template-library-header-tools"></div>
+	</div>
+</script>
+
+<script type="text/template" id="tmpl-elementor-templates-modal__header__logo">
+	<span class="elementor-templates-modal__header__logo__icon-wrapper e-logo-wrapper">
+		<i class="eicon-elementor"></i>
+	</span>
+	<span class="elementor-templates-modal__header__logo__title">{{{ title }}}</span>
+</script>
+<script type="text/template" id="tmpl-elementor-finder">
+	<div id="elementor-finder__search">
+		<i class="eicon-search" aria-hidden="true"></i>
+		<input id="elementor-finder__search__input" placeholder="Teclea para encontrar lo que sea en Elementor" autocomplete="off">
+	</div>
+	<div id="elementor-finder__content"></div>
+</script>
+
+<script type="text/template" id="tmpl-elementor-finder-results-container">
+	<div id="elementor-finder__no-results">Ningún resultado</div>
+	<div id="elementor-finder__results"></div>
+</script>
+
+<script type="text/template" id="tmpl-elementor-finder__results__category">
+	<div class="elementor-finder__results__category__title">{{{ title }}}</div>
+	<div class="elementor-finder__results__category__items"></div>
+</script>
+
+<script type="text/template" id="tmpl-elementor-finder__results__item">
+	<a href="{{ url }}" class="elementor-finder__results__item__link">
+		<div class="elementor-finder__results__item__icon">
+			<i class="eicon-{{{ icon }}}" aria-hidden="true"></i>
+		</div>
+		<div class="elementor-finder__results__item__title">{{{ title }}}</div>
+		<# if ( description ) { #>
+			<div class="elementor-finder__results__item__description">- {{{ description }}}</div>
+		<# } #>
+
+		<# if ( lock ) { #>
+		<div class="elementor-finder__results__item__badge"><i class="{{{ lock.badge.icon }}}"></i>{{ lock.badge.text }}</div>
+		<# } #>
+	</a>
+	<# if ( actions.length ) { #>
+		<div class="elementor-finder__results__item__actions">
+		<# jQuery.each( actions, function() { #>
+			<a class="elementor-finder__results__item__action elementor-finder__results__item__action--{{ this.name }}" href="{{ this.url }}" target="_blank">
+				<i class="eicon-{{{ this.icon }}}"></i>
+			</a>
+		<# } ); #>
+		</div>
+	<# } #>
+</script>
+<script type="text/javascript" src="http://www.sistemaut.cl/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3" id="jquery-ui-core-js"></script>
+<script type="text/javascript" src="http://www.sistemaut.cl/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3" id="jquery-ui-mouse-js"></script>
+<script type="text/javascript" src="http://www.sistemaut.cl/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.3" id="jquery-ui-draggable-js"></script>
+<script type="text/javascript" src="http://www.sistemaut.cl/wp-includes/js/underscore.min.js?ver=1.13.4" id="underscore-js"></script>
+<script type="text/javascript" src="http://www.sistemaut.cl/wp-includes/js/backbone.min.js?ver=1.5.0" id="backbone-js"></script>
+<script type="text/javascript" src="http://www.sistemaut.cl/wp-content/plugins/elementor/assets/lib/backbone/backbone.marionette.min.js?ver=2.4.5.e1" id="backbone-marionette-js"></script>
+<script type="text/javascript" src="http://www.sistemaut.cl/wp-content/plugins/elementor/assets/lib/backbone/backbone.radio.min.js?ver=1.0.4" id="backbone-radio-js"></script>
+<script type="text/javascript" src="http://www.sistemaut.cl/wp-content/plugins/elementor/assets/js/common-modules.min.js?ver=3.25.0" id="elementor-common-modules-js"></script>
+<script type="text/javascript" id="elementor-web-cli-js-before">
+/* <![CDATA[ */
+var elementorWebCliConfig = {"isDebug":true,"urls":{"rest":"http:\/\/www.sistemaut.cl\/wp-json\/","assets":"http:\/\/www.sistemaut.cl\/wp-content\/plugins\/elementor\/assets\/"},"nonce":"1280cac310","version":"3.25.0"};
+var elementorWebCliConfig = {"isDebug":true,"urls":{"rest":"http:\/\/www.sistemaut.cl\/wp-json\/","assets":"http:\/\/www.sistemaut.cl\/wp-content\/plugins\/elementor\/assets\/"},"nonce":"1280cac310","version":"3.25.0"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.sistemaut.cl/wp-content/plugins/elementor/assets/js/web-cli.min.js?ver=3.25.0" id="elementor-web-cli-js"></script>
+<script type="text/javascript" src="http://www.sistemaut.cl/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.9.3" id="elementor-dialog-js"></script>
+<script type="text/javascript" id="wp-api-request-js-extra">
+/* <![CDATA[ */
+var wpApiSettings = {"root":"http:\/\/www.sistemaut.cl\/wp-json\/","nonce":"1280cac310","versionString":"wp\/v2\/"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.sistemaut.cl/wp-includes/js/api-request.min.js?ver=6.6.2" id="wp-api-request-js"></script>
+<script type="text/javascript" id="elementor-dev-tools-js-before">
+/* <![CDATA[ */
+var elementorDevToolsConfig = {"isDebug":true,"urls":{"assets":"http:\/\/www.sistemaut.cl\/wp-content\/plugins\/elementor\/assets\/"},"deprecation":{"soft_notices":[],"soft_version_count":4,"hard_version_count":8,"current_version":"3.25.0"}};
+var elementorDevToolsConfig = {"isDebug":true,"urls":{"assets":"http:\/\/www.sistemaut.cl\/wp-content\/plugins\/elementor\/assets\/"},"deprecation":{"soft_notices":[],"soft_version_count":4,"hard_version_count":8,"current_version":"3.25.0"}};
+var elementorDevToolsConfig = {"isDebug":true,"urls":{"assets":"http:\/\/www.sistemaut.cl\/wp-content\/plugins\/elementor\/assets\/"},"deprecation":{"soft_notices":[],"soft_version_count":4,"hard_version_count":8,"current_version":"3.25.0"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.sistemaut.cl/wp-content/plugins/elementor/assets/js/dev-tools.min.js?ver=3.25.0" id="elementor-dev-tools-js"></script>
+<script type="text/javascript" src="http://www.sistemaut.cl/wp-includes/js/dist/hooks.min.js?ver=2810c76e705dd1a53b18" id="wp-hooks-js"></script>
+<script type="text/javascript" src="http://www.sistemaut.cl/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6" id="wp-i18n-js"></script>
+<script type="text/javascript" id="wp-i18n-js-after">
+/* <![CDATA[ */
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+/* ]]> */
+</script>
+<script type="text/javascript" id="elementor-common-js-translations">
+/* <![CDATA[ */
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "elementor", {"translation-revision-date":"2024-10-28 13:38:22+0000","generator":"GlotPress\/4.0.1","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n != 1;","lang":"es"},"To upload them anyway, ask the site administrator to enable unfiltered file uploads.":["Para subirlos de todas formas, pide al administrador del sitio que active la subida de archivos sin filtrar."],"This is because JSON files may pose a security risk.":["Esto se debe a que los archivos JSON pueden suponer un riesgo para la seguridad."],"Sorry, you can't upload that file yet":["Lo siento, a\u00fan no puedes subir ese archivo"],"Import Without Enabling":["Importar sin activar"],"Enable and Import":["Activar e importar"],"If you do not enable uploading unfiltered files, any SVG or JSON (including lottie) files used in the uploaded template will not be imported.":["Si no activas la subida de archivos no filtrados, no se importar\u00e1n los archivos SVG o JSON (incluyendo lottie) utilizados en la plantilla subida."],"The file exceeds the maximum upload size for this site.":["El archivo supera el tama\u00f1o m\u00e1ximo de subida de este sitio."],"Uploading...":["Subiendo..."],"Got it":["Entendido"],"Enable Unfiltered File Uploads":["Permitir la subida de archivos sin filtrar"],"Unable to connect":["No ha sido posible conectar"],"Before you enable unfiltered files upload, note that such files include a security risk. Elementor does run a process to remove possible malicious code, but there is still risk involved when using such files.":["Antes de que actives la subida de archivos sin filtrar, ten en cuenta que este tipo de archivos implican un riesgo de seguridad. Elementor ejecuta un proceso para eliminar el posible c\u00f3digo malicioso, pero todav\u00eda hay un riesgo inherente al usar estos archivos."],"Finder":["Buscador"],"Enable":["Activar"],"Cancel":["Cancelar"]}},"comment":{"reference":"assets\/js\/common.js"}} );
+/* ]]> */
+</script>
+<script type="text/javascript" id="elementor-common-js-before">
+/* <![CDATA[ */
+var elementorCommonConfig = {"version":"3.25.0","isRTL":false,"isDebug":true,"isElementorDebug":false,"activeModules":["ajax","finder","connect","event-tracker"],"experimentalFeatures":{"e_font_icon_svg":true,"additional_custom_breakpoints":true,"container":true,"e_swiper_latest":true,"e_nested_atomic_repeaters":true,"e_optimized_control_loading":true,"e_onboarding":true,"e_css_smooth_scroll":true,"home_screen":true,"nested-elements":true,"editor_v2":true,"e_element_cache":true,"link-in-bio":true,"floating-buttons":true},"urls":{"assets":"http:\/\/www.sistemaut.cl\/wp-content\/plugins\/elementor\/assets\/","rest":"http:\/\/www.sistemaut.cl\/wp-json\/"},"filesUpload":{"unfilteredFiles":false},"library_connect":{"is_connected":true,"subscription_plans":{"free":{"label":null,"promotion_url":null,"color":null},"essential":{"label":"Pro","promotion_url":"https:\/\/elementor.com\/pro\/?utm_source=template-library&utm_medium=wp-dash&utm_campaign=gopro","color":"#92003B"},"essential-oct2023":{"label":"Advanced","promotion_url":"https:\/\/elementor.com\/pro\/?utm_source=template-library&utm_medium=wp-dash&utm_campaign=gopro","color":"#92003B"},"advanced":{"label":"Advanced","promotion_url":"https:\/\/elementor.com\/pro\/?utm_source=template-library&utm_medium=wp-dash&utm_campaign=gopro","color":"#92003B"},"expert":{"label":"Expert","promotion_url":"https:\/\/elementor.com\/pro\/?utm_source=template-library&utm_medium=wp-dash&utm_campaign=gopro","color":"#92003B"},"agency":{"label":"Agency","promotion_url":"https:\/\/elementor.com\/pro\/?utm_source=template-library&utm_medium=wp-dash&utm_campaign=gopro","color":"#92003B"}},"base_access_level":0,"base_access_tier":"free","current_access_level":0,"current_access_tier":"free"},"ajax":{"url":"http:\/\/www.sistemaut.cl\/wp-admin\/admin-ajax.php","nonce":"ab29dd91c1"},"finder":{"data":{"edit":{"title":"Editar","dynamic":true,"name":"edit"},"general":{"title":"General","dynamic":false,"items":{"saved-templates":{"title":"Plantillas guardadas","icon":"library-save","url":"http:\/\/www.sistemaut.cl\/wp-admin\/edit.php?post_type=elementor_library&tabs_group=library","keywords":["template","section","page","library"]},"system-info":{"title":"Informaci\u00f3n del sistema","icon":"info-circle-o","url":"http:\/\/www.sistemaut.cl\/wp-admin\/admin.php?page=elementor-system-info","keywords":["system","info","environment","elementor"]},"role-manager":{"title":"Gestor de perfiles","icon":"person","url":"http:\/\/www.sistemaut.cl\/wp-admin\/admin.php?page=elementor-role-manager","keywords":["role","manager","user","elementor"]},"knowledge-base":{"title":"Base de conocimiento","url":"http:\/\/www.sistemaut.cl\/wp-admin\/admin.php?page=go_knowledge_base_site","keywords":["help","knowledge","docs","elementor"]},"theme-builder":{"title":"Maquetador de temas","icon":"library-save","url":"http:\/\/www.sistemaut.cl\/wp-admin\/admin.php?page=elementor-app&ver=3.25.0#site-editor\/promotion","keywords":["template","header","footer","single","archive","search","404","library"]},"kit-library":{"title":"Biblioteca de kits","icon":"kit-parts","url":"http:\/\/www.sistemaut.cl\/wp-admin\/admin.php?page=elementor-app&ver=3.25.0#\/kit-library","keywords":["kit library","kit","library","site parts","parts","assets","templates"]}},"name":"general"},"create":{"title":"Crear","dynamic":false,"items":{"page":{"title":"A\u00f1adir una nueva plantilla de p\u00e1gina","icon":"plus-circle-o","url":"http:\/\/www.sistemaut.cl\/wp-admin\/edit.php?action=elementor_new_post&post_type=elementor_library&template_type=page&_wpnonce=f0488a6c76","keywords":["A\u00f1adir una nueva plantilla de p\u00e1gina","post","page","template","new","create"]},"section":{"title":"A\u00f1adir nueva Secci\u00f3n","icon":"plus-circle-o","url":"http:\/\/www.sistemaut.cl\/wp-admin\/edit.php?action=elementor_new_post&post_type=elementor_library&template_type=section&_wpnonce=f0488a6c76","keywords":["A\u00f1adir nueva Secci\u00f3n","post","page","template","new","create"]},"container":{"title":"A\u00f1adir nueva Contenedor","icon":"plus-circle-o","url":"http:\/\/www.sistemaut.cl\/wp-admin\/edit.php?action=elementor_new_post&post_type=elementor_library&template_type=container&_wpnonce=f0488a6c76","keywords":["A\u00f1adir nueva Contenedor","post","page","template","new","create"]},"wp-post":{"title":"A\u00f1adir nueva Entrada","icon":"plus-circle-o","url":"http:\/\/www.sistemaut.cl\/wp-admin\/edit.php?action=elementor_new_post&post_type=post&template_type=wp-post&_wpnonce=f0488a6c76","keywords":["A\u00f1adir nueva Entrada","post","page","template","new","create"]},"wp-page":{"title":"A\u00f1adir nueva P\u00e1gina","icon":"plus-circle-o","url":"http:\/\/www.sistemaut.cl\/wp-admin\/edit.php?action=elementor_new_post&post_type=page&template_type=wp-page&_wpnonce=f0488a6c76","keywords":["A\u00f1adir nueva P\u00e1gina","post","page","template","new","create"]},"floating-buttons":{"title":"A\u00f1adir nueva Elemento flotante","icon":"plus-circle-o","url":"http:\/\/www.sistemaut.cl\/wp-admin\/edit.php?action=elementor_new_post&post_type=e-floating-buttons&template_type=floating-buttons&_wpnonce=f0488a6c76#library","keywords":["A\u00f1adir nueva Elemento flotante","post","page","template","new","create"]}},"name":"create"},"site":{"title":"Sitio","dynamic":false,"items":{"homepage":{"title":"P\u00e1gina de inicio","url":"http:\/\/www.sistemaut.cl","icon":"home-heart","keywords":["home","page"]},"wordpress-dashboard":{"title":"Escritorio","icon":"dashboard","url":"http:\/\/www.sistemaut.cl\/wp-admin\/","keywords":["dashboard","wordpress"]},"wordpress-menus":{"title":"Men\u00fas","icon":"wordpress","url":"http:\/\/www.sistemaut.cl\/wp-admin\/nav-menus.php","keywords":["menu","wordpress"]},"wordpress-themes":{"title":"Temas","icon":"wordpress","url":"http:\/\/www.sistemaut.cl\/wp-admin\/themes.php","keywords":["themes","wordpress"]},"wordpress-customizer":{"title":"Personalizador","icon":"wordpress","url":"http:\/\/www.sistemaut.cl\/wp-admin\/customize.php","keywords":["customizer","wordpress"]},"wordpress-plugins":{"title":"Plugins","icon":"wordpress","url":"http:\/\/www.sistemaut.cl\/wp-admin\/plugins.php","keywords":["plugins","wordpress"]},"wordpress-users":{"title":"Usuarios","icon":"wordpress","url":"http:\/\/www.sistemaut.cl\/wp-admin\/users.php","keywords":["users","profile","wordpress"]},"apps":{"title":"Extensiones","url":"http:\/\/www.sistemaut.cl\/wp-admin\/admin.php?page=elementor-apps","icon":"apps","keywords":["apps","addon","plugin","extension","integration"]}},"name":"site"},"settings":{"title":"Ajustes","dynamic":false,"items":{"general-settings":{"title":"Ajustes generales","url":"http:\/\/www.sistemaut.cl\/wp-admin\/admin.php?page=elementor-settings#tab-general","keywords":["general","settings","elementor"]},"integrations":{"title":"Integraciones","url":"http:\/\/www.sistemaut.cl\/wp-admin\/admin.php?page=elementor-settings#tab-integrations","keywords":["integrations","settings","elementor"]},"advanced":{"title":"Avanzado","url":"http:\/\/www.sistemaut.cl\/wp-admin\/admin.php?page=elementor-settings#tab-advanced","keywords":["advanced","settings","elementor"]},"performance":{"title":"Rendimiento","url":"http:\/\/www.sistemaut.cl\/wp-admin\/admin.php?page=elementor-settings#tab-performance","keywords":["performance","settings","elementor"]},"experiments":{"title":"Experimentos","url":"http:\/\/www.sistemaut.cl\/wp-admin\/admin.php?page=elementor-settings#tab-experiments","keywords":["settings","elementor","experiments"]},"features":{"title":"Caracteristicas","url":"http:\/\/www.sistemaut.cl\/wp-admin\/admin.php?page=elementor-settings#tab-experiments","keywords":["settings","elementor","features"]},"element-manager":{"title":"Gestor de elementos","url":"http:\/\/www.sistemaut.cl\/wp-admin\/admin.php?page=elementor-element-manager","keywords":["settings","elements","widgets","manager"]}},"name":"settings"},"tools":{"title":"Herramientas","dynamic":false,"items":{"tools":{"title":"Herramientas","icon":"tools","url":"http:\/\/www.sistemaut.cl\/wp-admin\/admin.php?page=elementor-tools","keywords":["tools","regenerate css","safe mode","debug bar","sync library","elementor"]},"replace-url":{"title":"Reemplazar URL","icon":"tools","url":"http:\/\/www.sistemaut.cl\/wp-admin\/admin.php?page=elementor-tools#tab-replace_url","keywords":["tools","replace url","domain","elementor"]},"maintenance-mode":{"title":"Modo de mantenimiento","icon":"tools","url":"http:\/\/www.sistemaut.cl\/wp-admin\/admin.php?page=elementor-tools#tab-maintenance_mode","keywords":["tools","maintenance","coming soon","elementor"]},"import-export":{"title":"Importar \/ Exportar","icon":"import-export","url":"http:\/\/www.sistemaut.cl\/wp-admin\/admin.php?page=elementor-tools#tab-import-export-kit","keywords":["tools","import export","import","export","kit"]},"version-control":{"title":"Control de versiones","icon":"time-line","url":"http:\/\/www.sistemaut.cl\/wp-admin\/admin.php?page=elementor-tools#tab-versions","keywords":["tools","version","control","rollback","beta","elementor"]}},"name":"tools"}}},"connect":[],"event-tracker":{"isUserDataShared":true}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.sistemaut.cl/wp-content/plugins/elementor/assets/js/common.min.js?ver=3.25.0" id="elementor-common-js"></script>
+<script type="text/javascript" id="elementor-app-loader-js-before">
+/* <![CDATA[ */
+var elementorAppConfig = {"menu_url":"http:\/\/www.sistemaut.cl\/wp-admin\/admin.php?page=elementor-app&ver=3.25.0#site-editor\/promotion","assets_url":"http:\/\/www.sistemaut.cl\/wp-content\/plugins\/elementor\/assets\/","pages_url":"http:\/\/www.sistemaut.cl\/wp-admin\/edit.php?post_type=page","return_url":"http:\/\/www.sistemaut.cl\/","hasPro":false,"admin_url":"http:\/\/www.sistemaut.cl\/wp-admin\/","login_url":"http:\/\/www.sistemaut.cl\/wp-login.php","base_url":"http:\/\/www.sistemaut.cl\/wp-admin\/admin.php?page=elementor-app&ver=3.25.0","promotion":{"upgrade_url":"https:\/\/go.elementor.com\/go-pro-theme-builder\/"},"site-editor":[],"import-export":[],"kit-library":[],"onboarding":[]};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.sistemaut.cl/wp-content/plugins/elementor/assets/js/app-loader.min.js?ver=3.25.0" id="elementor-app-loader-js"></script>
+<script type="text/javascript" src="http://www.sistemaut.cl/wp-content/themes/blogus/js/custom.js?ver=6.6.2" id="blogus_custom-js-js"></script>
+<script type="text/javascript" src="http://www.sistemaut.cl/wp-content/themes/blogus/js/dark.js?ver=6.6.2" id="blogus-dark-js"></script>
+<script type="text/javascript" src="http://www.sistemaut.cl/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.25.0" id="elementor-webpack-runtime-js"></script>
+<script type="text/javascript" src="http://www.sistemaut.cl/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.25.0" id="elementor-frontend-modules-js"></script>
+<script type="text/javascript" id="elementor-frontend-js-before">
+/* <![CDATA[ */
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselWrapperAriaLabel":"Carrusel | Scroll horizontal: Flecha izquierda y derecha","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la \u00faltima diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\u00f3vil vertical","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"M\u00f3vil horizontal","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tableta horizontal","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Port\u00e1til","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},"hasCustomBreakpoints":false},"version":"3.25.0","is_static":false,"experimentalFeatures":{"e_font_icon_svg":true,"additional_custom_breakpoints":true,"container":true,"e_swiper_latest":true,"e_nested_atomic_repeaters":true,"e_optimized_control_loading":true,"e_onboarding":true,"e_css_smooth_scroll":true,"home_screen":true,"nested-elements":true,"editor_v2":true,"e_element_cache":true,"link-in-bio":true,"floating-buttons":true},"urls":{"assets":"http:\/\/www.sistemaut.cl\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"http:\/\/www.sistemaut.cl\/wp-admin\/admin-ajax.php","uploadUrl":"http:\/\/www.sistemaut.cl\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"7eefbbb6c1"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":33,"title":"Actividades%20Comunitarias%20%E2%80%93%20Municipalidad%20DuocUC","excerpt":"","featuredImage":false},"user":{"roles":["administrator"]}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.sistemaut.cl/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.25.0" id="elementor-frontend-js"></script>
+<script type="text/javascript" id="elementor-admin-bar-js-before">
+/* <![CDATA[ */
+var elementorAdminBarConfig = {"elementor_edit_page":{"id":"elementor_edit_page","title":"Editar con Elementor","href":"http:\/\/www.sistemaut.cl\/wp-admin\/post.php?post=33&action=elementor","children":{"34":{"id":"elementor_site_settings","title":"Ajustes del sitio","sub_title":"Sitio","href":"http:\/\/www.sistemaut.cl\/wp-admin\/post.php?post=33&action=elementor&active-document=115","class":"elementor-site-settings","parent_class":"elementor-second-section"},"35":{"id":"elementor_app_site_editor","title":"Maquetador de temas","sub_title":"Sitio","href":"http:\/\/www.sistemaut.cl\/wp-admin\/admin.php?page=elementor-app&ver=3.25.0#site-editor\/promotion","class":"elementor-app-link","parent_class":"elementor-second-section"}}}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.sistemaut.cl/wp-content/plugins/elementor/assets/js/elementor-admin-bar.min.js?ver=3.25.0" id="elementor-admin-bar-js"></script>
+<script type="text/javascript" src="http://www.sistemaut.cl/wp-includes/js/hoverintent-js.min.js?ver=2.2.1" id="hoverintent-js-js"></script>
+<script type="text/javascript" src="http://www.sistemaut.cl/wp-includes/js/admin-bar.min.js?ver=6.6.2" id="admin-bar-js"></script>
+	<script>
+	/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);
+	</script>
+	</body>
+</html>
+  
